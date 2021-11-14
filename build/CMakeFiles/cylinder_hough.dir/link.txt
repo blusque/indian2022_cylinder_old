@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\cylinder_hough.dir/objects.a
+D:\mingw64\mingw64\bin\ar.exe qc CMakeFiles\cylinder_hough.dir/objects.a @CMakeFiles\cylinder_hough.dir\objects1.rsp
+D:\mingw64\mingw64\bin\x86_64-w64-mingw32-g++.exe -g -Wl,--whole-archive CMakeFiles\cylinder_hough.dir/objects.a -Wl,--no-whole-archive -o cylinder_hough.exe -Wl,--out-implib,libcylinder_hough.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cylinder_hough.dir\linklibs.rsp

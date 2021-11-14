@@ -1,0 +1,7 @@
+[
+{
+  "directory": "G:/opencv_ws/build",
+  "command": "D:\\mingw64\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe   -g -o CMakeFiles\\cylinder_hough.dir\\main.cpp.obj -c G:\\opencv_ws\\main.cpp",
+  "file": "G:/opencv_ws/main.cpp"
+}
+]
